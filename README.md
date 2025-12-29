@@ -18,7 +18,7 @@ taps_hardware/
 │  └─ neck_pcb/   # Throat-mounted IMU sensor PCB (Altium Designer)
 ├─ firmware/      # STM32-based data acquisition firmware
 └─ README.md
-
+```
 
 
 - **hardware/**: PCB design files created using *Altium Designer*
